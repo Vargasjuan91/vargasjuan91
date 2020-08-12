@@ -1,4 +1,3 @@
-<img width="632" alt="Untitled" src="https://user-images.githubusercontent.com/32151636/90076877-69823e00-dcc6-11ea-89e1-3b3bf384bfdd.png">
 <h1 align="center">Hi 👋, I'm Yonhbu</h1>
 <h3 align="center">A passionate developer from Colombia</h3>
 
