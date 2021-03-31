@@ -10,10 +10,3 @@
 - 🤝 I’m looking for help with **Backend Mentoring**
 
 - 💬 Ask me about **Java SE and EE, MicroServices**
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vargasjuan91&show_icons=true" alt="vargasjuan91" /></p>
-
-<p align="center">
-<a href="https://linkedin.com/in/yonhbu" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yonhbu" height="30" width="30" /></a>
-</p>
